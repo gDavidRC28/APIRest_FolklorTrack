@@ -1,0 +1,3 @@
+email,password,nombre_completo,rol,estatus,fecha_creado,ultima_act
+admin@folklor.com,adminFolk123,Administrador Principal,Admin,Activo,2024-03-18 10:00:00,2024-03-18 10:00:00
+gera.ramirez@folklor.com,geraRmz123,Gerardo Ramirez,Alumno,Activo,2024-03-18 10:00:00,2024-03-18 10:00:00
